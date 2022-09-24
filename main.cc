@@ -6,5 +6,6 @@ int main(int argc, char** argv)
 {
     std::cout << std::boolalpha;
     print("hi harry");
+    print("hi will");
     return 0;
 }
